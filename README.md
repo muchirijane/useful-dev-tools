@@ -17,3 +17,5 @@ This methods include:
   <li>console.count()</li>
   <li>console.table()</li>
   </ul>
+<br>
+To get to see how they work take a look at the javascript file. 😜
